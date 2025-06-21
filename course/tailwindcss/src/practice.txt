@@ -1,0 +1,97 @@
+practice #1
+
+Create a button using a <button> tag with bg-blue-500.
+
+Add classes to style the button with padding, background color, rounded corners, and a hover effect that changes its color to bg-blue-700.
+
+Add the Tailwind CSS CDN in head tag:
+
+<head><link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"></head>
+
+------------------------------------
+practice #2
+
+Create a div (parent container) and give it the id="parent". This div should contain another div (child container) with id="child".
+
+Use Tailwind CSS's flexbox utilities to center the child div inside the parent both vertically and horizontally within the viewport.
+
+The content inside the child div should consist of:
+
+A heading (<h1>) with the class text-2xl.
+
+A paragraph (<p>) explaining that the div is centered.
+
+---------------------------------
+
+practice #3
+
+Create a div container to hold the grid.
+
+Inside the container, add four child div elements.
+
+Use Tailwind CSS’s grid utilities to create a 2x2 grid layout.
+
+Add a unique background color to each div to differentiate the grid cells.
+
+-------------------------
+
+practice #4
+
+Create a div that represents a card element.
+
+Apply Tailwind CSS box shadow utilities to give the card a subtle shadow effect.
+
+Inside the card, include:
+
+A heading (<h2>) for the card title.
+
+A paragraph (<p>) for some card content.
+
+The card should have padding of 24px, a white background color, and rounded corners with lg class to enhance the design.
+
+
+--------------------------
+
+#practice-5
+
+--------------------------
+
+#practice-6
+
+Create an img element to display an image.
+
+Use Tailwind CSS’s filter and blur utilities to apply a blur effect to the image.
+
+Add some padding and a border to enhance the visibility of the image.
+
+---------------------------
+
+#practice-7
+
+Create a button element in your HTML.
+
+Apply Tailwind CSS gradient utilities to create a gradient background for the button. It must go from bg-blue-500 to bg-pink-500 (left to right).
+
+Style the button with appropriate 8px vertical padding, 16px horizontal padding, white text color, and medium box shadow.
+
+Add hover effects to enhance the button’s appearance on mouseover. On hover, It must go from bg-pink-500 to bg-blue-500.
+
+--------------------------
+
+#practice-8
+
+Create a div element to represent the square box.
+
+Apply Tailwind CSS utilities to make the div a square with defined dimensions and background color.
+
+Width and Height must be w-32 and h-32
+
+Must have blue-500 background
+
+Must have 16px border width
+
+Must have gray-800 border
+
+Apply tailwind class for the continuous rotation animation to the square box.
+
+Add some padding and border to the box for better visibility.
